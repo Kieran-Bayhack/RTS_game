@@ -1,0 +1,5 @@
+C:\Users\kiera\source\repos\RTS_Game\RTS_Game\obj\Debug\RTS_Game.csprojAssemblyReference.cache
+C:\Users\kiera\source\repos\RTS_Game\RTS_Game\obj\Debug\RTS_Game.Form1.resources
+C:\Users\kiera\source\repos\RTS_Game\RTS_Game\obj\Debug\RTS_Game.Properties.Resources.resources
+C:\Users\kiera\source\repos\RTS_Game\RTS_Game\obj\Debug\RTS_Game.csproj.GenerateResource.cache
+C:\Users\kiera\source\repos\RTS_Game\RTS_Game\obj\Debug\RTS_Game.csproj.CoreCompileInputs.cache
